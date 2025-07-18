@@ -2,7 +2,8 @@
 
 This is a full-stack web application that provides book recommendations using a sophisticated hybrid model, combining both Collaborative and Content-Based Filtering techniques.
 
-![alt text](image.png)
+<img width="1553" height="909" alt="image" src="https://github.com/user-attachments/assets/6f252de2-0443-4aa0-83d4-b86aa4df7077" />
+
 
 **Live Demo:** [Link to your deployed app on Render/PythonAnywhere] <-- *This is the most important link!*
 
